@@ -19,4 +19,5 @@ def adpoly(l,d,c):
 l=[[-2,1]]
 m=[[2,1]]
 c=[[8,7]]
+
 adpoly(l,m,c)
